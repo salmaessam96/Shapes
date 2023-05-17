@@ -1,0 +1,3 @@
+﻿  graphics_Project.cpp
+c:\users\salma essam\source\repos\graphics_project\graphics_project\graphics_project.cpp(169): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  graphics_Project.vcxproj -> C:\Users\Salma Essam\source\repos\graphics_Project\Debug\graphics_Project.exe
